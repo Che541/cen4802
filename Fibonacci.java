@@ -1,3 +1,13 @@
+/**
+* Simple method that takes an integer 1 or greater and return the Fibonacci sequence term at that place.
+* First term is 0.
+*
+* @author           Che Zavala
+* @param    input   the nth place for the term of the Fibonacci sequence you wish to receive 
+* @return           the term at the place specified
+*/
+
+
 import java.util.Scanner;
 
 public class Fibonacci {
